@@ -1,4 +1,4 @@
-#youtube video link: https://youtu.be/ULoM5KS8W9c 
+
 
 import cv2
 import numpy as np
